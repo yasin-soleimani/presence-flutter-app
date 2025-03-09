@@ -91,8 +91,8 @@ flutter:
   # see https://flutter.dev/to/font-from-package
 
   # Add fonts section
-  # assets:
-  #   - assets/images/landing_image.png
+  assets:
+    - assets/images/landing_image.png
 
   fonts:
     - family: YekanBakh
